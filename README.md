@@ -3,7 +3,7 @@
 
 Summify is a research assistant application that leverages the **Gemini API** to process and analyze text. It provides functionalities like text summarization and content-based suggestions using Gemini's powerful language models.
 
-## Features
+## Features 
 - Summarizes given text into a concise and meaningful format.
 - Suggests related topics and further reading based on the input text.
 - Utilizes **Google's Gemini API** for language understanding and text processing.
