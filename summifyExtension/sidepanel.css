@@ -51,13 +51,13 @@ button:hover {
 
 #results {
     padding: 10px;
-    background-color: #f8f9fa;
+    background-color: #ffffff;
     border-radius: 4px;
     margin-top: 20px;
 }
 
 .result-item {
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 15px;
     border-radius: 4px;
     margin-bottom: 10px;
